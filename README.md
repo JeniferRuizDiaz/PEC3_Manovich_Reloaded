@@ -9,12 +9,12 @@ Autor: Jenifer Ruiz Díaz | Data: Desembre 2023
 ## Introducció
 
 Avui en dia podem trobar infinitat d’exemples d’aplicacions híbrides que utilitzen la fusió de diferents formes culturals, medis i tecnologies de l’era digital per a oferir noves propostes evolucionades que, segons Manovich: 
-> «Es fusionen per oferir una experiència nova i coherent, que es diferent a experimentar els elements un per un» (Manovich, 2013).
+> Es fusionen per oferir una experiència nova i coherent, que es diferent a experimentar els elements un per un. (Manovich, 2013).
 
 Podríem fer un paral·lelisme amb els colors. Per un cantó, tenim el color groc i per l’altre el color blau, dos colors diferenciats i amb identitat. Però, quan els fusionem, obtenim un nou color totalment diferent que no haguéssim pogut gaudir si no haguéssim fet aquesta barreja. En els medis digitals, aquesta combinació es pot realitzar de moltes maneres, tantes com medis i aplicacions existeixen avui en dia.
 
 En els següents exemples escollits, podrem veure dos de les moltes aplicacions que utilitzen la geolocalització i l’API de Google Maps. I és que, tal com ens comenta Manovich:
-> «És evident que no tots els components que conformen el metamedi ordinador tenen la mateixa importància e idèntiques possibilitats de «connexió» amb els demés. Alguns s’utilitzen més que altres, la qual cosa produeix més combinacions» (Manovich, 2013).
+> És evident que no tots els components que conformen el metamedi ordinador tenen la mateixa importància e idèntiques possibilitats de «connexió» amb els demés. Alguns s’utilitzen més que altres, la qual cosa produeix més combinacions. (Manovich, 2013).
 
 
 
@@ -51,13 +51,22 @@ Tot i que en un inici, aquesta aplicació funcionava principalment al mòbil (ta
 
 ## Segon cas: Pokémon Go
 
+![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pok%C3%A9mon_GO_logo.svg/2560px-Pok%C3%A9mon_GO_logo.svg.png) 
+
+
+### Introducció
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ### Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Wikiloc, la APP de Rutas Outdoor. **https://es.wikiloc.com/**
+* Wikiloc, la APP de Rutas Outdoor. Disponible a https://es.wikiloc.com/
+* Wikiloc, Wikipedia, La Enciclopedia Libre. Disponible a https://es.wikipedia.org/wiki/Wikiloc
+* ¿Qué es Wikiloc? y su importancia para las empresas de Turismo Activo, UrquiaBas. Disponible a https://blog.urquiabas.com/la-importancia-de-wikiloc/
+* Un éxito silencioso llamado Wikiloc: 12 millones de usuarios y referencia mundial made in Spain, Xataka. Disponible a https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain
+
 
 
 ----
