@@ -57,24 +57,16 @@ Tot i que en un inici, aquesta aplicació funcionava principalment al mòbil (ta
 
 ### Introducció
 
-Tot va començar com una campanya puntual pel dia dels innocents americà, l'April Fools' de 2014, on Google Maps amb la col·laboració de The Pokémon Company va publicar una innocentada en format de vídeo i anomenada Pokémon Challenge que mostrava el mapa mundial envait per criatures Pokémon. La bona rebuda i entusiasme que va generar aquesta broma va ser la llavor que va fer
+Tot va començar com una campanya puntual pel dia dels sants innocents americà, l'April Fools' de 2014, on Google Maps amb la col·laboració de The Pokémon Company va publicar una innocentada en format de vídeo i anomenada Pokémon Challenge que mostrava el mapa mundial envait per criatures Pokémon. La bona rebuda i entusiasme que va generar aquesta broma va ser la llavor que posteriorment es va transformar en aquest videojoc desenvolupat per Niantic al 2016 per a dispositius mòbils.
 
-Aquest joc permet als jugadors explorar el món real alhora que cerquen i capturen a diferents Pokémons, entrenar-los per competir en gimnasos virtuals i agrupar-se en equips per interactiar i col·laborar.
-
-Pokémon GO va suposar una revolució, aconseguint ser l'aplicació per a mòbils més descarregada als Estats Units
+Pokémon GO permet als jugadors explorar el món real alhora que cerquen i capturen a diferents Pokémons, entrenar-los per competir en gimnasos virtuals i agrupar-se en equips per interactuar i col·laborar entre ells, suposant una revolució i aconseguint ser tot un fenomen amb més de 10 milions de descàrregues durant la primera setmana del seu llançament.
 
 
 ### Hibridació de medis i tecnologies
 
-Aquest videojoc utilitza
+Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents artícles que posteriorment podran usar a la mateixa aplicació i gimnasos on superar reptes individuals o col·laboratius.
 
-Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents artícles i gimnasos on superar reptes individuals o col·laboratius.
-
-
-Aquest videojoc utilitza la realitat augmentada com una capa que superposa el mon virtual de Pokémon sobre el món real per integrar elements dels jocs tradicionals de la saga. D'aquesta manera, els jugadors poden cercar Pokémons al mapa mitjançant la geolocalització i atrapar-los usant la càmera del mòbil on se superposen a l'espai real que els envolta, trobar Poképarades on obtenir diferents artícles i gimnasos on superar reptes individuals o col·laboratius.
-
-
-
+A banda d'això, també aprofita la hibridació amb la tecnolgoia de realitat augmentada (RA) com una capa que superposa el món virtual de Pokémon sobre el món real per a que els jugadors, mitjançant la càmera del seu mòbil, puguin visualitzar aquestes criatures al seu entorn i atrapar-les usant les Pokédex. Aquesta fusió transforma la manera en la que perceben i experimenten l'espai físic, creant una interacció directa entre els elements digitals i el món que els rodeja. Així, la hibridació de la RA i Pokémon GO ilustra com la tecnologia redefineix la nostra relació amb la realitat al combinar-la amb elements virtuals de manera fluida i novedosa, permetent als jugadors interactuar amb els Pokémons dintre deu seu context contidià.
 
 ### Hibridació de tecnologies
 
@@ -85,6 +77,7 @@ Aquest videojoc utilitza la realitat augmentada com una capa que superposa el mo
 * Wikiloc, Wikipedia, La Enciclopedia Libre. Disponible a https://es.wikipedia.org/wiki/Wikiloc
 * ¿Qué es Wikiloc? y su importancia para las empresas de Turismo Activo, UrquiaBas. Disponible a https://blog.urquiabas.com/la-importancia-de-wikiloc/
 * Un éxito silencioso llamado Wikiloc: 12 millones de usuarios y referencia mundial made in Spain, Xataka. Disponible a https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain
+* Pokémon GO. Viquipèdia, l'Encliclopèdia Llliure. Disponible a https://ca.wikipedia.org/wiki/Pok%C3%A9mon_Go
 
 
 
