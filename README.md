@@ -66,9 +66,17 @@ Pokémon GO permet als jugadors explorar el món real alhora que cerquen i captu
 
 Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents artícles que posteriorment podran usar a la mateixa aplicació i gimnasos on superar reptes individuals o col·laboratius.
 
+![Texto alternativo](https://upload.wikimedia.org/wikipedia/en/c/c2/Pok%C3%A9mon_Go_-_screenshot_of_map.png) 
+
 A banda d'això, també aprofita la hibridació amb la tecnolgoia de realitat augmentada (RA) com una capa que superposa el món virtual de Pokémon sobre el món real per a que els jugadors, mitjançant la càmera del seu mòbil, puguin visualitzar aquestes criatures al seu entorn i atrapar-les usant les Pokédex. Aquesta fusió transforma la manera en la que perceben i experimenten l'espai físic, creant una interacció directa entre els elements digitals i el món que els rodeja. Així, la hibridació de la RA i Pokémon GO ilustra com la tecnologia redefineix la nostra relació amb la realitat al combinar-la amb elements virtuals de manera fluida i novedosa, permetent als jugadors interactuar amb els Pokémons dintre deu seu context contidià.
 
-### Hibridació de tecnologies
+![Texto alternativo](https://globalnews.ca/wp-content/uploads/2016/07/pokemon-go.png?w=2048) 
+
+### Hibridació de formes culturals
+
+Pokémon GO va redefinir l'experiència cultural i lúdica fusionant la nostalgia de la franquícia de Pokémon amb la tecnologia mòbil contemporània. Aprofitant la combinació d'elements de la cultura dels videojocs amb l'exploració de l'entorn físic, va transformar la manera en la que ens relacionem amb la narrativa digital i el món real, redefinint la interacció social al crear comunitats de jugadors que col·laboren i competeixen en espais comuns. A més de fusionar la cultura dels videojocs amb la interacció física i l'exploració urbana, aconseguint que la narrativa digital s'unís a les nostres vides cuotidianes
+
+![Texto alternativo](https://images.macrumors.com/t/ug_QqrAVl00Hv9yTy_NjShFdglo=/800x0/article-new/2017/08/pokemon_go_fest.jpg?lossy) 
 
 ### Bibliografia
 
@@ -78,6 +86,7 @@ A banda d'això, també aprofita la hibridació amb la tecnolgoia de realitat au
 * ¿Qué es Wikiloc? y su importancia para las empresas de Turismo Activo, UrquiaBas. Disponible a https://blog.urquiabas.com/la-importancia-de-wikiloc/
 * Un éxito silencioso llamado Wikiloc: 12 millones de usuarios y referencia mundial made in Spain, Xataka. Disponible a https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain
 * Pokémon GO. Viquipèdia, l'Encliclopèdia Llliure. Disponible a https://ca.wikipedia.org/wiki/Pok%C3%A9mon_Go
+* Pokémon GO: cómo la realidad virtual ha revolucionado nuestra forma de jugar. OpenMindBBVA. Disponible a: https://www.bbvaopenmind.com/tecnologia/futuro/mas-alla-de-pokemon-go-como-la-realidad-virtual-va-a-revolucionar-nuestra-forma-de-jugar/
 
 
 
