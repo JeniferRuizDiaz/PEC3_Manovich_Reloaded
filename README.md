@@ -57,7 +57,7 @@ Tot i que en un inici, aquesta aplicació funcionava principalment al mòbil (ta
 ![Texto alternativo](https://i.ibb.co/YZzgvLk/pokemongo.png) 
 
 
-### Context
+### Introducció
 
 Tot va començar com una campanya puntual pel dia dels sants innocents americà, l'April Fools' de 2014, on Google Maps amb la col·laboració de The Pokémon Company va publicar una innocentada en format de vídeo i anomenada Pokémon Challenge que mostrava el mapa mundial envaït per criatures Pokémon. La bona rebuda i entusiasme que va generar aquesta broma va ser la llavor que posteriorment es va transformar en aquest videojoc desenvolupat per Niantic al 2016 per a dispositius mòbils.
 
