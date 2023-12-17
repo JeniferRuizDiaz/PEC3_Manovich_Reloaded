@@ -11,7 +11,10 @@ Autora: Jenifer Ruiz Díaz | Data: Desembre 2023
 Lev Manovich ens descriu al seu llibre **"El Software toma el mando"** el que ell defineix com a hibridació: una fusió entre diferents formes culturals, medis i tecnologies de l'era digital que es combinen gràcies al software. Avui en dia podem trobar infinitat d’exemples d’aplicacions híbrides que utilitzen aquesta combinació per a oferir noves propostes evolucionades que, segons Manovich: 
 > Es fusionen per oferir una experiència nova i coherent, que es diferent a experimentar els elements un per un. (Manovich, 2013).
 
-Per entendre millor aquest concepte, podríem fer un paral·lelisme amb els colors. Per un cantó, tenim el color groc i per l’altre el color blau, dos colors diferenciats i amb identitat pròpia. Però, quan els fusionem, obtenim un nou color totalment diferent que no haguéssim pogut treure si no haguéssim fet aquesta barreja. En els medis digitals, aquesta combinació es pot realitzar de moltes maneres, tantes com medis i aplicacions existeixen avui en dia.
+Hi han conceptes que poden ser molt similars, com la multimèdia, la qual Manovich descriu com:
+> Aquest terme es va popularitzar a la dècada dels noranta per descriure aplicacions i documents electrònics en els quals convivien, de forma contigua, diferents tipus de mitjans.
+
+Així doncs, per entendre millor aquest concepte, podríem fer un paral·lelisme amb els colors. Per un cantó, tenim el color groc i per l’altre el color blau, dos colors diferenciats i amb identitat pròpia. Però, quan els fusionem, obtenim un nou color totalment diferent que no haguéssim pogut treure si no haguéssim fet aquesta barreja. En els medis digitals, aquesta combinació es pot realitzar de moltes maneres, tantes com medis i aplicacions existeixen avui en dia.
 
 En els següents exemples escollits, podrem veure dos exemples representatius triats entre les moltes aplicacions existents actualment que se'n beneficien d'una hibridació. En aquests casos, ambdós exemples utilitzen la geolocalització i l’API de Google Maps. I és que, tal com ens comenta Manovich:
 > És evident que no tots els components que conformen el metamedi ordinador tenen la mateixa importància e idèntiques possibilitats de «connexió» amb els demés. Alguns s’utilitzen més que altres, la qual cosa produeix més combinacions. (Manovich, 2013).
@@ -66,7 +69,7 @@ Pokémon GO permet als jugadors explorar el món real alhora que cerquen i captu
 
 ### Hibridació de medis i tecnologies
 
-Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents articles que posteriorment podran usar a la mateixa aplicació i gimnasos on superar reptes individuals o col·laboratius.
+Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents articles que posteriorment podran utilitzar a la mateixa aplicació i gimnasos on superar reptes individuals o col·laboratius.
 
 ![Texto alternativo](https://upload.wikimedia.org/wikipedia/en/c/c2/Pok%C3%A9mon_Go_-_screenshot_of_map.png) 
 
@@ -82,7 +85,7 @@ Pokémon GO va redefinir l'experiència cultural i lúdica fusionant la nostàlg
 
 ## Valoracions personals
 
-WIP
+Aquests dos casos analitzats són una bona mostra representativa de com la hibridació no només redefineix els nous medis, sinó també com redefineix la nostra relació amb l'entorn i la interacció amb els altres, transformant la nostra experiència quotidiana de maneres que abans no podíem imaginar. La capacitat de combinar el món digital amb el real ha obert portes a noves formes d'exploració, connexió i diversió, canviant la forma com vivim i experimentem el nostre dia a dia.
 
 ## Bibliografia
 
