@@ -1,8 +1,8 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
-Autora: Jenifer Ruiz Díaz | Data: Desembre 2023
+Autora: **Jenifer Ruiz Díaz** | Data: **Desembre 2023** | Assignatura: **Cultura Digital** | **UOC** (Universitat Oberta de Catalunya)
 
-![Cultura Digital](https://i.ibb.co/746K7qM/mezcla.jpg) 
+![Redescobrint la hibridació](https://i.ibb.co/746K7qM/mezcla.jpg) 
 
 
 
@@ -12,7 +12,7 @@ Lev Manovich ens descriu al seu llibre **"El Software toma el mando"** el que el
 > Es fusionen per oferir una experiència nova i coherent, que es diferent a experimentar els elements un per un. (Manovich, 2013).
 
 Hi han conceptes que poden ser molt similars, com la multimèdia, la qual Manovich descriu com:
-> Aquest terme es va popularitzar a la dècada dels noranta per descriure aplicacions i documents electrònics en els quals convivien, de forma contigua, diferents tipus de mitjans.
+> Aquest terme es va popularitzar a la dècada dels noranta per descriure aplicacions i documents electrònics en els quals convivien, de forma contigua, diferents tipus de mitjans. (Manovich, 2013).
 
 Així doncs, per entendre millor aquest concepte, podríem fer un paral·lelisme amb els colors. Per un cantó, tenim el color groc i per l’altre el color blau, dos colors diferenciats i amb identitat pròpia. Però, quan els fusionem, obtenim un nou color totalment diferent que no haguéssim pogut treure si no haguéssim fet aquesta barreja. En els medis digitals, aquesta combinació es pot realitzar de moltes maneres, tantes com medis i aplicacions existeixen avui en dia.
 
@@ -23,7 +23,9 @@ En els següents exemples escollits, podrem veure dos exemples representatius tr
 
 ## Primer cas: Wikiloc
 
-![Texto alternativo](https://sc.wklcdn.com/wikiloc/assets/styles/images/logo/wikiloc_logo.svg) 
+![Logotipo de Wikiloc](https://sc.wklcdn.com/wikiloc/assets/styles/images/logo/wikiloc_logo.svg) 
+
+*Imatge de [Wikiloc](https://www.wikiloc.com/)*
 
 ### Introducció
 
@@ -38,27 +40,31 @@ La hibridació que se centra en la interfície, fusiona les dades de les rutes i
 
 Per una altra banda, quan l’usuari hagi seleccionat una de les rutes, visualitzarà el seu traçat sobre el mapa i podrà seguir-la mitjançant la seva ubicació GPS i gravar-la per guardar-la o compartir-la un cop finalitzada. A més, també disposa de la navegació a través del gràfic de desnivell, podent desplaçar-se per la ruta alhora que selecciones parts del gràfic.
 
-![Texto alternativo](https://i.blogs.es/1c46b9/wikiloc-dest/1200_800.jpeg) 
+![Captura de la app de Wikiloc](https://i.blogs.es/1c46b9/wikiloc-dest/1200_800.jpeg) 
+*Imatge de [Xataka](https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain)*
 
 ### Hibridació d’estructura de dades i algoritmes
 
 La participació dels usuaris a la comunitat és, òbviament, un dels punts claus de l’èxit de Wikiloc. I no només pel volum de rutes disponibles, també per la quantitat d’informació que els usuaris comparteixen. En cada ruta, podrem saber, no només la ubicació, també quina distància té, l’altitud, el desnivell, tipus de dificultat, temps dedicat, fotografies dels punts més rellevants, explicacions precises i comentaris d’altres usuaris valorant l’experiència o fent aportacions. Totes aquestes dades permeten a l’usuari fer una cerca i selecció personalitzada. 
 
 
-![Texto alternativo](https://alpino-tabira.org/wp-content/uploads/2019/03/Wikiloc.png) 
+![Captures de la app de Wikiloc](https://alpino-tabira.org/wp-content/uploads/2019/03/Wikiloc.png) 
+
+*Imatge de [Alpino Tabira](https://alpino-tabira.org/index.php/2022/12/17/cursillo-de-orientacion-con-wikiloc-2023/)*
 
 ### Hibridació de tecnologies
 
 Tot i que en un inici, aquesta aplicació funcionava principalment al mòbil (també en ordinador, però, com és lògic, principalment per consultar), actualment presenta la possibilitat de convergència amb la tecnologia wareable, fusionant les dues plataformes tecnològiques per a oferir una experiència més accessible als usuaris.
 
-![Texto alternativo](https://i.ibb.co/r5KK1QF/wikiloc-smartwatch.png) 
+![Smartwatches amb l'aplicació de Wikiloc](https://i.ibb.co/r5KK1QF/wikiloc-smartwatch.png) 
 
-
+*Imatge de [Wikiloc](https://www.wikiloc.com/)*
 
 ## Segon cas: Pokémon GO
 
-![Texto alternativo](https://i.ibb.co/YZzgvLk/pokemongo.png) 
+![Logotip de PokémonGO](https://i.ibb.co/YZzgvLk/pokemongo.png) 
 
+*Imatge de [Pokémon GO Live](https://pokemongolive.com/es/)*
 
 ### Introducció
 
@@ -71,35 +77,40 @@ Pokémon GO permet als jugadors explorar el món real alhora que cerquen i captu
 
 Aquest videojoc utilitza la hibridació amb els mapes de Google Maps i la geolocalització per GPS per integrar elements dels jocs tradicionals de Pokémon al món real. D'aquesta manera, els jugadors poden cercar Pokémons, trobar Poképarades on obtenir diferents articles que posteriorment podran utilitzar a la mateixa aplicació i gimnasos on superar reptes individuals o col·laboratius.
 
-![Texto alternativo](https://upload.wikimedia.org/wikipedia/en/c/c2/Pok%C3%A9mon_Go_-_screenshot_of_map.png) 
+![Captures del joc de PokémonGO](https://i.ibb.co/zRvLsjW/pokemon-go-17624-1.png) 
+
+*Imatge de [Malavida](https://www.malavida.com/es/soft/pokemon-go/android/)*
 
 A banda d'això, també aprofita la hibridació amb la tecnolgoia de realitat augmentada (RA) com una capa que superposa el món virtual de Pokémon sobre el món real per a que els jugadors, mitjançant la càmera del seu mòbil, puguin visualitzar aquestes criatures al seu entorn i atrapar-les usant les Pokédex. Aquesta fusió transforma la manera en la que perceben i experimenten l'espai físic, creant una interacció directa entre els elements digitals i el món que els rodeja. Així, la hibridació de la RA i Pokémon GO il·lustra com la tecnologia redefineix la nostra relació amb la realitat al combinar-la amb elements virtuals de manera fluida i innovadora, permetent als jugadors interactuar amb els Pokémons dintre deu seu context quotidià.
 
-![Texto alternativo](https://globalnews.ca/wp-content/uploads/2016/07/pokemon-go.png?w=2048) 
+![Joc de PokémonGO](https://globalnews.ca/wp-content/uploads/2016/07/pokemon-go.png?w=2048) 
+
+*Imatge de [Global News](https://globalnews.ca/)*
 
 ### Hibridació de formes culturals
 
 Pokémon GO va redefinir l'experiència cultural i lúdica fusionant la nostàlgia de la franquícia de Pokémon amb la tecnologia mòbil contemporània. Aprofitant la combinació d'elements de la cultura dels videojocs amb l'exploració de l'entorn físic, va transformar la manera en la que ens relacionem amb la narrativa digital i el món real, redefinint la interacció social al crear comunitats de jugadors que col·laboren i competeixen en espais comuns. Fusionant, a més, la cultura dels videojocs amb la interacció física i l'exploració urbana, aconseguint que la narrativa digital s'unís a les nostres vides quotidianes.
 
-![Texto alternativo](https://images.macrumors.com/t/ug_QqrAVl00Hv9yTy_NjShFdglo=/800x0/article-new/2017/08/pokemon_go_fest.jpg?lossy) 
+![Concentració per jugar a PokémonGO](https://images.macrumors.com/t/ug_QqrAVl00Hv9yTy_NjShFdglo=/800x0/article-new/2017/08/pokemon_go_fest.jpg?lossy) 
+
+*Imatge de [MacRumors](https://www.macrumors.com/)*
 
 ## Valoracions personals
 
-Aquests dos casos analitzats són una bona mostra representativa de com la hibridació no només redefineix els nous medis, sinó també com redefineix la nostra relació amb l'entorn i la interacció amb els altres, transformant la nostra experiència quotidiana de maneres que abans no podíem imaginar. La capacitat de combinar el món digital amb el real ha obert portes a noves formes d'exploració, connexió i diversió, canviant la forma com vivim i experimentem el nostre dia a dia.
+Aquests dos casos analitzats són una bona mostra representativa de com la hibridació no només redefineix els nous medis, sinó també com redefineix la nostra relació amb l'entorn i la interacció amb els altres, transformant la nostra experiència quotidiana de maneres que abans no podíem imaginar. La capacitat de combinar el món digital amb el real ha obert portes a noves formes d'exploració, connexió i diversió, canviant la forma com vivim i experimentem el nostre dia a dia. La hibridació és molt més que una moda passatgera, és, de fet, la base sobre la qual construirem el nostre futur, on lo físic i lo digital no conviuran com a entitats separades, sinó com a dimensions interconnectades de la nostra essència.
 
 ## Bibliografia
 
+* Beatriz Guillén, Isabel Rubio Arroyo. (2022). Pokémon GO: cómo la realidad virtual ha revolucionado nuestra forma de jugar. OpenMindBBVA. Disponible a: https://www.bbvaopenmind.com/tecnologia/futuro/mas-alla-de-pokemon-go-como-la-realidad-virtual-va-a-revolucionar-nuestra-forma-de-jugar/
+* Enrique Vázquez Gómez. EL FENÓMENO POKÉMON GO!: Consecuencias y realidades de este videojuego de Realidad Aumentada. Disponible a: https://webs.ucm.es/BUCM/revcul/e-learning-innova/176/art2415.pdf
+* Ferran Adell. Remediación, multimedia e hibridación de los medios. Grado Multimedia - UOC. Disponible a: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Javier Lacort. (2023). Un éxito silencioso llamado Wikiloc: 12 millones de usuarios y referencia mundial made in Spain, Xataka. Disponible a https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Markdown.es. Disponible a: https://markdown.es/
+* ¿Qué es Wikiloc? y su importancia para las empresas de Turismo Activo, UrquiaBas. Disponible a https://blog.urquiabas.com/la-importancia-de-wikiloc/
+* Pokémon GO. Viquipèdia, l'Encliclopèdia Llliure. Disponible a https://ca.wikipedia.org/wiki/Pok%C3%A9mon_Go
 * Wikiloc, la APP de Rutas Outdoor. Disponible a https://es.wikiloc.com/
 * Wikiloc, Wikipedia, La Enciclopedia Libre. Disponible a https://es.wikipedia.org/wiki/Wikiloc
-* ¿Qué es Wikiloc? y su importancia para las empresas de Turismo Activo, UrquiaBas. Disponible a https://blog.urquiabas.com/la-importancia-de-wikiloc/
-* Un éxito silencioso llamado Wikiloc: 12 millones de usuarios y referencia mundial made in Spain, Xataka. Disponible a https://www.xataka.com/empresas-y-economia/exito-silencioso-llamado-wikiloc-12-millones-usuarios-referencia-mundial-made-in-spain
-* Pokémon GO. Viquipèdia, l'Encliclopèdia Llliure. Disponible a https://ca.wikipedia.org/wiki/Pok%C3%A9mon_Go
-* Pokémon GO: cómo la realidad virtual ha revolucionado nuestra forma de jugar. OpenMindBBVA. Disponible a: https://www.bbvaopenmind.com/tecnologia/futuro/mas-alla-de-pokemon-go-como-la-realidad-virtual-va-a-revolucionar-nuestra-forma-de-jugar/
-* Enrique Vázquez Gómez. EL FENÓMENO POKÉMON GO!: Consecuencias y realidades de este videojuego de Realidad Aumentada. Disponible a: https://webs.ucm.es/BUCM/revcul/e-learning-innova/176/art2415.pdf
-
-
 
 ----
 
