@@ -1,12 +1,12 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
-Autora: **Jenifer Ruiz Díaz** | Data: **Desembre 2023** | Assignatura: **Cultura Digital** | **UOC** (Universitat Oberta de Catalunya)
+Autora: **Jenifer Ruiz Díaz** | Data: **Desembre 2023** | Grau: **Tècniques d'Interacció Digital i Multimèdia** | Assignatura: **Cultura Digital** | **UOC**
 
 ![Redescobrint la hibridació](https://i.ibb.co/746K7qM/mezcla.jpg) 
 
 
 
-## Context
+## Parlem del concepte hibridació
 
 Lev Manovich ens descriu al seu llibre **"El Software toma el mando"** el que ell defineix com a hibridació: una fusió entre diferents formes culturals, medis i tecnologies de l'era digital que es combinen gràcies al software. Avui en dia podem trobar infinitat d’exemples d’aplicacions híbrides que utilitzen aquesta combinació per a oferir noves propostes evolucionades que, segons Manovich: 
 > Es fusionen per oferir una experiència nova i coherent, que es diferent a experimentar els elements un per un. (Manovich, 2013).
