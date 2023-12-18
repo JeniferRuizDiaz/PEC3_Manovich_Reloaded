@@ -3,7 +3,7 @@
 Autora: **Jenifer Ruiz Díaz** | Data: **Desembre 2023** | Grau: **Tècniques d'Interacció Digital i Multimèdia** | Assignatura: **Cultura Digital** | **UOC**
 
 ![Redescobrint la hibridació](https://i.ibb.co/746K7qM/mezcla.jpg) 
-
+*Imatge de [Freepik](https://www.freepik.es/)*
 
 
 ## Parlem del concepte hibridació
