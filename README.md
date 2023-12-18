@@ -54,7 +54,7 @@ La participació dels usuaris a la comunitat és, òbviament, un dels punts clau
 
 ### Hibridació de tecnologies
 
-Tot i que en un inici, aquesta aplicació funcionava principalment al mòbil (també en ordinador, però, com és lògic, principalment per consultar), actualment presenta la possibilitat de convergència amb la tecnologia wareable, fusionant les dues plataformes tecnològiques per a oferir una experiència més accessible als usuaris.
+Tot i que en un inici, aquesta aplicació funcionava principalment per a mòbil (també en ordinador, però, com és lògic, principalment per consultar), actualment presenta la possibilitat de convergència amb la tecnologia wareable, fusionant les dues plataformes tecnològiques per a oferir una experiència més accessible als usuaris.
 
 ![Smartwatches amb l'aplicació de Wikiloc](https://i.ibb.co/r5KK1QF/wikiloc-smartwatch.png) 
 
